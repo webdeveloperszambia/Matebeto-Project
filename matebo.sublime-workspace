@@ -1,0 +1,756 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"background-image"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"a",
+				"grid-auto-rows"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"d",
+				"d-flex"
+			],
+			[
+				"i",
+				"optimizeSpeed"
+			],
+			[
+				"coi",
+				"container-fluid"
+			],
+			[
+				"CA",
+				"card-body"
+			],
+			[
+				"te",
+				"text-primary"
+			],
+			[
+				"m",
+				"main"
+			],
+			[
+				"B",
+				"background-image"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"o",
+				"overflow-x"
+			],
+			[
+				"t",
+				"text-light"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"l",
+				"layer1"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"la",
+				"layer3"
+			],
+			[
+				"laye",
+				"layer3"
+			],
+			[
+				"sp",
+				"spacer"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"BACK",
+				"background-size"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"sky",
+				"lightskyblue"
+			],
+			[
+				"an",
+				"animation-delay"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"DEE",
+				"darkslateblue"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"is",
+				"isIntersecting"
+			],
+			[
+				"if",
+				"ife"
+			],
+			[
+				"ent",
+				"entry"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"cu",
+				"curve"
+			],
+			[
+				"fu",
+				"fun"
+			],
+			[
+				"y",
+				"y4"
+			],
+			[
+				"x",
+				"x4"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"lightgre",
+				"lightgreen"
+			],
+			[
+				"PALEG",
+				"palegreen"
+			],
+			[
+				"GREEN",
+				"yellowgreen"
+			],
+			[
+				"GR",
+				"greenyellow"
+			],
+			[
+				"anima",
+				"animation-delay"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"ani",
+				"animation-name"
+			],
+			[
+				"p",
+				"portalX"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"her",
+				"heroHeight"
+			],
+			[
+				"he",
+				"heroHeight"
+			],
+			[
+				"sr",
+				"srcY"
+			],
+			[
+				"n",
+				"unset"
+			],
+			[
+				"ene",
+				"enemie"
+			],
+			[
+				"e",
+				"enemieX"
+			],
+			[
+				"enemie",
+				"enemieY"
+			],
+			[
+				"border-oi",
+				"border-right-color"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"pl",
+				"player1"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"de",
+				"detect"
+			],
+			[
+				"fi",
+				"fill"
+			],
+			[
+				"eh",
+				"white"
+			],
+			[
+				"gr",
+				"gravityforce"
+			],
+			[
+				"ca",
+				"canvas"
+			],
+			[
+				"do",
+				"move_down"
+			],
+			[
+				"mo",
+				"move_right"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"blen",
+				"background-blend-mode"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"btn",
+				"btn-outline-success"
+			],
+			[
+				"not",
+				"notifications"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"hr",
+				"hr"
+			],
+			[
+				"strok",
+				"strokeStyle"
+			],
+			[
+				"str",
+				"strokeStyle"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"L",
+				"link"
+			],
+			[
+				"width",
+				"border-image-width"
+			],
+			[
+				"on",
+				"onmousedown"
+			],
+			[
+				"ons",
+				"onscroll"
+			],
+			[
+				"transitin-",
+				"transition-duration"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"tex",
+				"text-left"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"A",
+				"aside"
+			],
+			[
+				"hea",
+				"header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Set Syntax: JavaScript (Rails)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+			"node",
+			"move_left()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/JOSEPHS FILES/e-commerce website/index.html",
+		"/D/JOSEPHS FILES/e-commerce website/style/style.css",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/carousel/index.html",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/cheatsheet/index.html",
+		"/D/JOSEPHS FILES/e-commerce website/images/hyundai/img2-h.jpg",
+		"/D/JOSEPHS FILES/e-commerce website/images/benz/pic1.jpg",
+		"/C/Users/kondwani semo/Desktop/persona/style.css",
+		"/C/Users/kondwani semo/Desktop/persona/index.html",
+		"/C/Users/kondwani semo/Desktop/persona/cover.css",
+		"/C/Users/kondwani semo/Desktop/persona/main.js",
+		"/C/Users/kondwani semo/Desktop/persona/cover.html",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/blog/index.html",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/navbars/index.html",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/navbars/navbar.css",
+		"/C/Users/kondwani semo/Desktop/persona/images/yel.svg",
+		"/C/Users/kondwani semo/Desktop/persona/svg/001-facebook.svg",
+		"/C/Users/kondwani semo/Desktop/persona/images/layer1.svg",
+		"/C/Users/kondwani semo/Desktop/persona/images/layered-waves-haikei.svg",
+		"/D/learning documents/past papers/g12_physics_p2_2017.pdf",
+		"/C/Users/kondwani semo/Desktop/ash/js/main.js",
+		"/C/Users/kondwani semo/Desktop/ash/js/collision.js",
+		"/J/@Playlists/audio_play_list.sal",
+		"/C/Users/kondwani semo/Desktop/ash tryout/canvas.html",
+		"/C/Users/kondwani semo/Desktop/ash/js/player.js",
+		"/C/Users/kondwani semo/Desktop/ash/canvas.html",
+		"/C/Users/kondwani semo/Desktop/ash/images/tiles/04.png",
+		"/C/Users/kondwani semo/Desktop/ash/images/elements/box2.png",
+		"/C/Users/kondwani semo/Desktop/ash/images/elements/flower3.png",
+		"/C/Users/kondwani semo/Desktop/ash/images/elements/thorns2.png",
+		"/C/Users/kondwani semo/Desktop/ash/images/elements/pointer.png",
+		"/D/downloads/devdocs (1).json",
+		"/C/Users/kondwani semo/Desktop/ash/canvas.sublime-project",
+		"/D/j-card/Removable Disk/Others/Snake-HTML-5-game-master/Snake-HTML-5-game-master/snake.html",
+		"/D/j-card/Removable Disk/Others/Snake-HTML-5-game-master/Snake-HTML-5-game-master/snake.js",
+		"/D/learning documents/Others/anime-master/anime-master/documentation/assets/css/anime-theme.css",
+		"/D/j-card/Removable Disk/Others/Snake-HTML-5-game-master/Snake-HTML-5-game-master/tsconfig.json",
+		"/D/learning documents/Others/anime-master/anime-master/documentation/index.html",
+		"/C/Users/kondwani semo/Desktop/example/anime-theme.css",
+		"/D/j-card/Removable Disk/Others/Snake-HTML-5-game-master/Snake-HTML-5-game-master/snake.ts",
+		"/D/j-card/Removable Disk/Others/Snake-HTML-5-game-master/Snake-HTML-5-game-master/master.css",
+		"/D/learning documents/Others/anime-master/anime-master/documentation/assets/css/animejs.css",
+		"/C/Users/kondwani semo/Desktop/example/main.js",
+		"/C/Users/kondwani semo/Desktop/example/index.js",
+		"/D/j-card/Removable Disk/Others/Snake-HTML-5-game-master/Snake-HTML-5-game-master/snake.js~",
+		"/D/learning documents/Others/anime-master/anime-master/documentation/examples/stagger-demo.html",
+		"/D/learning documents/Others/anime-master/anime-master/src/index.js",
+		"/C/Program Files/Sublime Text/h.html",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-dist/css/bootstrap-utilities.css",
+		"/D/JOSEPHS FILES/Coding/my JavaScript libraries/react js/react-0.14.3/build/react-dom-server.js",
+		"/C/Users/kondwani semo/Desktop/CARPET RAN.sb2",
+		"/C/Users/Public/Desktop/BlueStacks 5.lnk",
+		"/C/Users/kondwani semo/Desktop/FRED  W.sb2",
+		"/C/Users/kondwani semo/Desktop/BlueStacks-Support.7z",
+		"/C/Users/kondwani semo/Desktop/08e2a180702be753d782d487.png",
+		"/C/Users/Public/Desktop/Steam.lnk",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-dist/css/bootstrap.css",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-dist/js/bootstrap.js",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-dist/js/bootstrap.bundle.js",
+		"/D/JOSEPHS FILES/school system/index.html",
+		"/D/JOSEPHS FILES/school system/profile.html",
+		"/C/Users/kondwani semo/Documents/PPSSPP/PSP/SAVEDATA/ULUS102340000/DATA.BIN",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/cover/cover.css",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/cover/index.html",
+		"/D/JOSEPHS FILES/school system/dashboard.html",
+		"/D/JOSEPHS FILES/school system/css/style.css",
+		"/D/JOSEPHS FILES/school system/notifications.html",
+		"/D/JOSEPHS FILES/school system/css/notification.css",
+		"/D/JOSEPHS FILES/school system/js/script.js",
+		"/D/downloads/Dragon Ball Z - Tenkaichi Tag Team (USA) (En,Fr,Es) (1).zip",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/starter-template/starter-template.css",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/sticky-footer/sticky-footer.css",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/sticky-footer/index.html",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/offcanvas-navbar/index.html",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/offcanvas-navbar/offcanvas.css",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/offcanvas-navbar/offcanvas.js",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/cheatsheet/cheatsheet.js",
+		"/D/JOSEPHS FILES/Coding/bootstrap 5 files/bootstrap-5.0.2-examples/cheatsheet/cheatsheet.css",
+		"/D/JOSEPHS FILES/school system/js/j",
+		"/D/downloads/devdocs.json",
+		"/D/j-card/Removable Disk/Others/react-0.14.3/react-0.14.3/examples/quadratic/example.js",
+		"/D/j-card/Removable Disk/Others/react-0.14.3/react-0.14.3/examples/quadratic/index.html",
+		"/D/BlueStacks_nxt/bluestacks.conf",
+		"/C/Users/kondwani semo/Downloads/(13) Facebook.html",
+		"/D/j-card/Removable Disk/Others/react-0.14.3/react-0.14.3/examples/jquery-bootstrap/index.html",
+		"/D/JOSEPHS FILES/Coding/samples/canvas/example/indec.html",
+		"/D/JOSEPHS FILES/Coding/samples/canvas/example/main.js",
+		"/D/JOSEPHS FILES/Coding/samples/canvas/learning canvas/index.html",
+		"/D/JOSEPHS FILES/Coding/samples/canvas/learning canvas/main.js",
+		"/D/GAMES/Checkers-7/checkers-7.exe",
+		"/D/JOSEPHS FILES/school system/js/script",
+		"/D/JOSEPHS FILES/school system/css/style",
+		"/D/JOSEPHS FILES/school system/index",
+		"/D/JOSEPHS FILES/e-commerce website/style/CAT.CSS",
+		"/D/JOSEPHS FILES/e-commerce website/catgories.html",
+		"/D/JOSEPHS FILES/e-commerce website/CAT.js",
+		"/D/JOSEPHS FILES/e-commerce website/CAT",
+		"/D/JOSEPHS FILES/e-commerce website/Sign-up.html",
+		"/D/JOSEPHS FILES/e-commerce website/checkout/Sign-up.html",
+		"/D/JOSEPHS FILES/e-commerce website/login form.html",
+		"/D/JOSEPHS FILES/e-commerce website/checkout/offcanvas.js",
+		"/D/JOSEPHS FILES/EXAMPLE/style.css",
+		"/D/JOSEPHS FILES/EXAMPLE/INDEX.HTML",
+		"/I/Cool_Music/Justin Bieber - Intentions ft. Quavo.mp3",
+		"/D/JOSEPHS FILES/INDEX.HTML",
+		"/D/sublime_text_build_4121_x64_setup.exe"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"50vh",
+			"older",
+			"lightskyblue",
+			"background",
+			"player",
+			"background",
+			"//}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 499.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\kondwani semo\\Desktop\\ash\\canvas.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
